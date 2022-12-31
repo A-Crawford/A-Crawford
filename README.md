@@ -1,6 +1,6 @@
 # @A-Crawford 
 Robotics, Mechatronics and Control Engineering Student. 
-Passionate nerd and programmer, experience in MATLAB, Simulink, C/C++, C#, Python, ROS, and hopefully more soon.
+Passionate programmer with experience in MATLAB, Simulink, C/C++, C#, Python, ROS, and hopefully more soon.
 
 Experienced lighting designer, programmer, rigger and enthusiast. Similarly, passionate and involved in sound engineering and music production.
 
